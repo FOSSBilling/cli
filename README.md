@@ -1,4 +1,6 @@
 # CLI
+![FOSSBilling CLI logo](https://user-images.githubusercontent.com/35808275/183721420-4f0c89be-1510-4de2-b10c-134a43bd3074.png)
+
 FOSSBilling CLI - WIP, don't use in production.
 
 > **Warning**
