@@ -17,7 +17,7 @@ limitations under the License.
 */
 package main
 
-import "fossbilling.org/cli/cmd"
+import "github.com/fossbilling/cli/cmd"
 
 func main() {
 	// Execute Cobra.

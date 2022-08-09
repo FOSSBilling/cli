@@ -1,4 +1,4 @@
-module fossbilling.org/cli
+module github.com/fossbilling/cli
 
 go 1.19
 
